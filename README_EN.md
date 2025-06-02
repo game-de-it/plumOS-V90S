@@ -59,6 +59,8 @@ https://wiki.batocera.org/start
 | SELECT+L2    | Slow motion |
 | SELECT+X     | Take a screenshot |
 | SELECT+Y     | Show FPS |
+| SELECT+START | Exit Retroarch |
+
 
 > [!WARNING]
 > SELECT+R2 (Fast Forward) conflicts with the analog stick emulation described earlier.  
