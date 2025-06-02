@@ -48,7 +48,7 @@ https://wiki.batocera.org/start
 > Pressing SELECT+R2 again will revert the D-pad to normal functionality, allowing cursor movement again.
 
 ## RetroArch Hotkeys
-- RetroArch hotkey settings can be changed by editing the `Batocera.conf` file under the systemc directory.
+- RetroArch hotkey settings can be changed by editing the `Batocera.conf` file under the system directory.
 
 | Button Combo | Action | 
 |:-------------|--------:|
