@@ -71,6 +71,7 @@ https://wiki.batocera.org/start
 | SELECT+L2     |      スローモーション |
 | SELECT+X     |      スナップショット |
 | SELECT+Y     |      FPS表示 |
+| SELECT+START     |      Retroarch終了 |
 
 > [!WARNING]
 > SELECT+R2 (ファストフォワード)は前述したDパッドを左アナログスティックに擬態する機能と競合します。  
