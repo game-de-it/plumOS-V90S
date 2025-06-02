@@ -60,7 +60,7 @@ https://wiki.batocera.org/start
 
 ## Retroarchの仕様
 - RetroArchのホットキー
-  - ※Hotkeyの設定はsystemcディレクトリ配下にある`Batocera.conf`ファイルを編集することで変更可能です  
+  - ※Hotkeyの設定はsystemディレクトリ配下にある`Batocera.conf`ファイルを編集することで変更可能です  
 
 | Button Combo | Action | 
 |:-----------|------------:|
